@@ -1,2 +1,8 @@
 # PHYTON-Attendance-System-with-email-notification
-PHYTON ACTIVITY(EDOOP): Requirements: 1) Remove the extra rows in the StudentDetails.csv when saving student record.  2) Saving of student tails, capturing of images and updating tne trainer.yml file should be done when you click on the Save Profile button.  3) Remove the extra rows when recording student attendance.  4) Date should not be included in the grid display.  5) Add another column named State to indicated whether the current state is a login or a logout process.  6) When checking attendance a student is detected the system should automatically ask if it is a login or logout process.
+PHYTON ACTIVITY(EDOOP): 
+Requirements: 
+1. Add and save new student data (Save faces, create yml file and append to StudentDetails.csv)
+2. Recognice save faces and ask whether login or logout.
+3. Save data(Id, name, date , time and state) on Attendance.csv
+4. Notify student's guardian via email on login and logout of student
+#PDM2018000294
